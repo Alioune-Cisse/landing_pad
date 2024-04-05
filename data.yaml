@@ -1,3 +1,8 @@
 train: landing_pad/train/images
 val: landing_pad/valid/images
 test: landing_pad/test/images
+
+nc: 2
+names:
+  0: landing_pad
+  1: kios
