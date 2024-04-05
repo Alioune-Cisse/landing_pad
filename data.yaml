@@ -1,0 +1,3 @@
+train: landing_pad/train/images
+val: landing_pad/valid/images
+test: landing_pad/test/images
